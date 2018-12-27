@@ -1,0 +1,23 @@
+{
+  "name": "sass_starter_pack-master-2",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javadragan/sass_starter_pack_master_2.git"
+  },
+  "author": "Dragan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javadragan/sass_starter_pack_master_2/issues"
+  },
+  "homepage": "https://github.com/javadragan/sass_starter_pack_master_2#readme"
+}
